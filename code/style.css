@@ -9,6 +9,7 @@
 	position: fixed;
 	background: white;
 	float: left;
+	z-index: +1;
 }
 .anh1 {
 	height: 100px;
